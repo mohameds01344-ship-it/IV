@@ -1,7 +1,7 @@
 // عدّل بيانات البراند من هنا فقط: رقم واتساب وروابط السوشيال والشحن.
 window.CONFIG = {
   brandName: 'IV_STORE',
-  whatsappNumber: '01023713311', // مثال مصر: 2010XXXXXXXX — بدون + أو مسافات
+  whatsappNumber: '0201023713311', // مثال مصر: 2010XXXXXXXX — بدون + أو مسافات
   socials: {
     instagram: '',
     facebook: '',
